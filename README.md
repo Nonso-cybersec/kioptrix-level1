@@ -162,7 +162,7 @@ cat test.php                        # audit any backend scripts
 
 Then verified in the browser (hard refresh: `Ctrl + F5`):
 
-![Web Defacement](sc/08_post_exploitation_web_defacement_png_.png)
+![Web Defacement](sc/08_post_exploitation_web_defacement_png_..png)
 
 The original Apache default page was replaced with my custom message. In a real incident, this is where an attacker plants malware, redirects visitors to phishing pages, or exfiltrates the web server's data. I kept it clean — but the capability was fully demonstrated.
 
